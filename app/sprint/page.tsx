@@ -1,5 +1,4 @@
 'use client';
-import { useSearchParams } from 'next/navigation';
 import { Suspense } from 'react';
 import Goal from '@/app/sprint/Goal';
 
